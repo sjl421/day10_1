@@ -1,0 +1,7 @@
+/onetomany_direct/
+/onetomany_fanout/
+/onetomany_topic/
+/onetoone/
+/onetoone_autoack/
+/onetoone_dispache/
+/rpc/
